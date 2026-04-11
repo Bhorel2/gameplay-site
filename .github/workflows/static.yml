@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GamePlay - Jogos Online</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0f172a;
-      color: #fff;
+  <title>Meu Site</title>
+</head>
+<body>
+  <h1>Bem-vindo ao meu site</h1>
+  <p>Agora é HTML puro sem workflow.</p>
+</body>
+</html>
     }
     header {
       background: #1e293b;
